@@ -8,6 +8,5 @@ namespace Projject_for_GIT
 {
     internal class life1
     {
-        //ккккк
     }
 }

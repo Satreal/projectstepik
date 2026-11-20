@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Projject_for_GIT
 {
     internal class life1
-    {
+    {//первое изменение после создания ветки
     }
 }

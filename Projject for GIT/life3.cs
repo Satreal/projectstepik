@@ -8,6 +8,6 @@ namespace Projject_for_GIT
 {
     internal class life3
     {
-    }
+    }//выпаыуыаыаыа
 }
 //выавыавыавыа
